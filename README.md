@@ -31,9 +31,15 @@ Evaluated the trained models using metrics such as accuracy.
 Insights:
 
 From above HeatMap we can see that the above data is not correlated.
+
 More people prefer City Hotel
+
 Repeated guests have min.cancelled bookings
+
 City Hotel has maximum cancelled bookings
+
 City Hotel has higher prices. August which was the crowdest month
+
 2016 is the year with maximum bookings and City Hotel has max bookings
+
 From above analysis we can see that Random Forest Model is giving highest score of 0.99 i.e 99%.
